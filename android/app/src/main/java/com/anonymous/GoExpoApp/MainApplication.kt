@@ -1,5 +1,5 @@
 package com.anonymous.GoExpoApp
-
+import com.anonymous.GoExpoApp.nebula.NebulaBridgePackage
 import android.app.Application
 import android.content.res.Configuration
 
